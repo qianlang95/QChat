@@ -19,6 +19,7 @@
 		8007A356284DBE4E00B597E9 /* VideoPlayerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8007A355284DBE4E00B597E9 /* VideoPlayerViewController.swift */; };
 		8007A358284DBE6400B597E9 /* NewConversationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8007A357284DBE6400B597E9 /* NewConversationViewController.swift */; };
 		8007A35A284DBE6E00B597E9 /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8007A359284DBE6E00B597E9 /* ProfileViewController.swift */; };
+		8007A35E284DCE6D00B597E9 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8007A35D284DCE6D00B597E9 /* Extensions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +37,7 @@
 		8007A355284DBE4E00B597E9 /* VideoPlayerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoPlayerViewController.swift; sourceTree = "<group>"; };
 		8007A357284DBE6400B597E9 /* NewConversationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewConversationViewController.swift; sourceTree = "<group>"; };
 		8007A359284DBE6E00B597E9 /* ProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
+		8007A35D284DCE6D00B597E9 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -119,6 +121,7 @@
 			children = (
 				8007A335284DBC6B00B597E9 /* AppDelegate.swift */,
 				8007A337284DBC6B00B597E9 /* SceneDelegate.swift */,
+				8007A35D284DCE6D00B597E9 /* Extensions.swift */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -217,6 +220,7 @@
 				8007A358284DBE6400B597E9 /* NewConversationViewController.swift in Sources */,
 				8007A338284DBC6B00B597E9 /* SceneDelegate.swift in Sources */,
 				8007A356284DBE4E00B597E9 /* VideoPlayerViewController.swift in Sources */,
+				8007A35E284DCE6D00B597E9 /* Extensions.swift in Sources */,
 				8007A352284DBE1F00B597E9 /* LoginViewController.swift in Sources */,
 				8007A35A284DBE6E00B597E9 /* ProfileViewController.swift in Sources */,
 				8007A350284DBE0500B597E9 /* RegisterViewController.swift in Sources */,
